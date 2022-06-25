@@ -3,10 +3,10 @@
 
 
 # To delete a remote branch
-# git push origin :newbranch
+# git push origin :dev
 # To delete a local branch
-# git branch -d newbranch
-# git branch -D newbranch
+# git branch -d dev
+# git branch -D test
 
 # To delete a remote tag
 # git push origin --delete v1.4
